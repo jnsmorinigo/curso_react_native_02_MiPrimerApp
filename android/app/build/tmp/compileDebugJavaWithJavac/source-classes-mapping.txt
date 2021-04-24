@@ -1,0 +1,14 @@
+com/miprimeraapp/MainApplication.java
+ com.miprimeraapp.MainApplication
+ com.miprimeraapp.MainApplication$1
+com/miprimeraapp/ReactNativeFlipper.java
+ com.miprimeraapp.ReactNativeFlipper
+ com.miprimeraapp.ReactNativeFlipper$1
+ com.miprimeraapp.ReactNativeFlipper$2
+ com.miprimeraapp.ReactNativeFlipper$2$1
+com/miprimeraapp/BuildConfig.java
+ com.miprimeraapp.BuildConfig
+com/miprimeraapp/MainActivity.java
+ com.miprimeraapp.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
